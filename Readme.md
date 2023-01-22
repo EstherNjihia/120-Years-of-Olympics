@@ -1,3 +1,5 @@
+ ![Olympics dashboard](https://user-images.githubusercontent.com/92293248/213903080-ed532c02-1754-49d3-b4bd-6b21db441579.png)
+
 # 120-Years-of-Olympics
 This project presents an analysis of 120 years of Olympics data using SQL and visualization with Tableau. The data used in this analysis is sourced from the Kaggle and includes information on athletes, teams, events, and medals.
 
